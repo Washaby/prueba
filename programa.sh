@@ -1,5 +1,5 @@
 #/bin/bash
 # programa de prueba para github
 
-source $HOME/Repositorios/bitabit/funciones.sh
+source ./funciones.sh
 saludo "Hola, ¿como estás?"
